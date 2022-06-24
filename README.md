@@ -1,4 +1,6 @@
-# code-highlight
+# Code Highlight
+
+A web app that let you highlight and save your code to online database
 
 ## Project setup
 ```
